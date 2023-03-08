@@ -52,7 +52,7 @@
   <h3 class="t-18 t-black t-bold">
     Summary
   </h3>
-    <p class="mt2 mb5 white-space-pre-wrap break-words t-14 t-black"><span dir="ltr">I am dedicated to software development (Mobile Software Developer) I have more than eight (8) years of experience developing mobile applications for smartphones, tablets, and handheld, using technological tools from Google, Microsoft and Oracle such as Android Studio, Google Analytics, firebase, Google maps for Geolocation, Visual Studio, Java, C #, kotlin, swiftUI, mongo, SQL Server, Office.
+    <p class="mt2 mb5 white-space-pre-wrap break-words t-14 t-black"><span dir="ltr">I am software development (Mobile Software Developer) I have more than eight (8) years of experience developing mobile applications for smartphones, tablets, and handheld, using technological tools from Google, Microsoft and Oracle such as Android Studio, Google Analytics, firebase, Google maps for Geolocation, Visual Studio, Java, C #, kotlin, swiftUI, mongo, SQL Server, Office.
 I have developed business applications of great help in their internal processes which more than 2000 concurrent users use throughout Colombia, running and implementing custom features to improve the user experience as the use of different applications without internet connection, inventory management, reports, scanning of all types of barcodes 1D and 2D making integrations with third party developments using the latest technology.
 I like to be updated with new technologies, so I love to research.
 My colleagues identify me as a collaborator, perseverant, creative, proactive, methodical, patient, pedagogue, and tidy.
