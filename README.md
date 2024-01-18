@@ -16,7 +16,7 @@
   <path d="M8 1L1 4.47V11a3 3 0 003 3h8a3 3 0 003-3V4.47zm5 10a1 1 0 01-1 1H4a1 1 0 01-1-1V6.51L8 9l5-2.49z"></path>
 </svg></li-icon>
           <span class="t-14 t-black">
-            rodrigocastrillon15@gmail.com
+            rodri.nido@gmail.com
           </span>
         </div>
         <div class="resume-builder-contact-info__field-container">
